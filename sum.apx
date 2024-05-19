@@ -2,7 +2,7 @@ public class sum{
   public void showDisp(){
    integer a=10;
    integer b=10;
-   integer c=a+b;
+   integer c=a*b;
    System.debug(c);
   }
 }
